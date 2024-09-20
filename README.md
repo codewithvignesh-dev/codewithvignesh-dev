@@ -1,5 +1,3 @@
-# Vignesh (DARK)
-
 ### About Me
 **Name**: Vignesh (DARK)  
 **Age**: 22  
@@ -10,7 +8,23 @@
 
 I am a professional web developer with advanced knowledge and 4+ years of experience in many programming languages and technologies. When I'm not working, I love to spend time in the programming world, continuously learning and implementing new ideas in Telegram and other platforms.
 
-### 🛠️ My Tech Stack
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshperiasamy&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshperiasamy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### ⚡ GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshperiasamy&theme=radical" alt="GitHub Streaks" />
+</p>
 
 #### Programming Languages
 <p align="left">
