@@ -12,9 +12,54 @@
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,discord,bash,git,linux,html,css,react" />
+💼 **What I Do:**
+- ✔️ Full-Stack Web Development
+- ✔️ API & Backend System Development
+- ✔️ Database Design & Optimization
+- ✔️ E-Commerce Platforms (Custom & Scalable)
+- ✔️ Security Implementation & Ethical Testing
+- ✔️ System Automation & Real-Time App Solutions
+- ✔️ Freelance Projects & Tech Lab Services
+
+---
+
+## 🛠 Skills & Expertise
+**ISO - A+ Certified**
+
+### **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,lua,vscode" />
+</p>
+
+### **Web Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,xml" />
+</p>
+
+### **Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,codeigniter,react,nodejs" />
+  <img src="https://img.shields.io/badge/Livewire-FF2D20?style=for-the-badge&logo=livewire&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black"/>
+</p>
+
+### **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### **Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux" />
+</p>
+
+### **Cybersecurity**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Injection-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XSS%20Testing-FF5733?style=for-the-badge&logo=bugatti&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DoS%2FDDoS-6E5494?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Info%20Gathering-00599C?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </p>
 
 ---
@@ -41,6 +86,8 @@
   <a href="https://discordapp.com/users/844933943388012565"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
   <a href="mailto:codewithvignesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
+
+> 🧢 Haters & jealous minds — your reactions are welcomed with a smile 😁❤️
 
 ---
 
