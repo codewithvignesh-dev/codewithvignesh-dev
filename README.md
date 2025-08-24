@@ -22,8 +22,6 @@
 - ✔️ Freelance Projects & Tech Lab Services
 
 ---
-
-<details><summary><b>Skill sets</b></summary>
   
 ## 🛠 Skills & Expertise
   
@@ -36,15 +34,6 @@
  <img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
-- C  
-- C++  
-- Java  
-- Python  
-- Lua  
-- Bash  
-- Batch  
-- Visual Basic  
-
 ---
 
 ## 🌐 Web Development
@@ -52,13 +41,6 @@
  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
   <img src="https://img.shields.io/badge/XML-D40000?style=for-the-badge&logo=xml&logoColor=white"/>
 </p>
-
-- HTML  
-- CSS  
-- JavaScript *(Intermediate)*  
-- PHP  
-- XML  
-- Full-Stack Web Development  
 
 ---
 
@@ -71,15 +53,6 @@
  <img src="https://img.shields.io/badge/Rappasoft-1A1A1A?style=for-the-badge&logo=laravel&logoColor=red"/>
  <img src="https://img.shields.io/badge/Magenta-A100FF?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
-
-- Laravel  
-- CodeIgniter  
-- React *(Basic)*  
-- Node.js *(Basic)*  
-- Livewire  
-- Alpine.js *(Basic)*  
-- Rappasoft  
-- Magenta  
 
 ---
 
@@ -99,32 +72,13 @@
   <img src="https://img.shields.io/badge/Aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-- **discord.py** – Bot development with commands, tasks, UI (buttons, views, selects)  
-- **LangChain Groq** – LLM-powered chat prompts & AI pipelines  
-- **BeautifulSoup (bs4)** – Web scraping & parsing HTML/XML  
-- **Requests / Aiohttp** – API calls & asynchronous HTTP requests  
-- **gTTS** – Google Text-to-Speech integration  
-- **Telethon** – Telegram client & bot framework  
-- **Supabase (Python Client)** – Database, authentication, and storage  
-- **APScheduler** – Task scheduling with async support  
-- **Dateutil & pytz** – Date/time parsing, timezone handling  
-
 ---
 
 ## 🗄️ Databases
 <p align="left">
  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-- MySQL  
-- SQLite  
-- MongoDB  
-- Oracle  
-- SQL  
-- SQL*Plus  
-- iSQL*Plus  
-- PL/SQL  
+</p>  
 
 ---
 
@@ -144,12 +98,6 @@
  <img src="https://img.shields.io/badge/Info%20Gathering-00599C?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </p>
 
-- SQL Injection  
-- XSS Attack  
-- DoS / DDoS Attack  
-- Web Crawling  
-- Information Gathering & Techniques  
-
 ---
 
 ## 🐧 Operating Systems
@@ -162,24 +110,12 @@
   <img src="https://img.shields.io/badge/Android-30D780?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
-- Windows
-- Linux  
-- Ubuntu  
-- Kali Linux
-- Alma Linux
-- Android 
-
 ---
 
 ## 🛠️ Tools & Collaboration
 <p align="left">
  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" />
 </p>
-
-- Git  
-- GitHub  
-- GitLab  
-- VS Code  
 
 ---
 
@@ -188,7 +124,6 @@
 - Networking *(Intermediate)*  
 
 ---
-</details>
 
 ## 📦 Featured Projects
 
