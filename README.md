@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Vigneshwaran P
+# <img src="🤖%20Robot%20Waving.gif" height=50 width=50> Hey, I'm Vigneshwaran P
 
 💻 **Full-stack Developer** | 🛡️ **Cybersecurity Enthusiast** | ⚡ **Tech Explorer**
 
