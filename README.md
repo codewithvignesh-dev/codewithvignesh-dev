@@ -169,5 +169,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithvignesh-dev&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://gh-badges.vercel.app/ghpvc?user=codewithvignesh-dev&label=Profile%20Views" />
 </p>
