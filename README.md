@@ -140,9 +140,6 @@
 
 ## 📊 GitHub Stats
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codewithvignesh-dev%20&theme=highcontrast&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&sideLabels=00C7EB&sideNums=EB5454&currStreakLabel=00EB8C" alt="GitHub Streak" /></a>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithvignesh-dev&theme=tokyonight" height="170"/>
-</p>
 
 ---
 
