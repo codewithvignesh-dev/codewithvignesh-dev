@@ -34,15 +34,15 @@ I'm a **GenAI Engineer** at **LITZ Tech India Pvt Ltd**, Coimbatore, building Ge
 
 <div align="center">
 
-<a href="https://github.com/codewithvignesh-dev/codewithvignesh-dev/Resume-Vigneshwaran-P-ATS.pdf">
+<a href="https://github.com/codewithvignesh-dev/codewithvignesh-dev/blob/main/Resume-Vigneshwaran-P-ATS.pdf">
   <img src="https://img.shields.io/badge/Download%20Now-Resume%20PDF-00C7EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
 </a>
 
 <br/>
 <br/>
 
-<a href="https://github.com/codewithvignesh-dev/codewithvignesh-dev/Resume-Vigneshwaran-P-ATS.pdf">
-  <img src="https://github.com/codewithvignesh-dev/codewithvignesh-dev/Resume-Vigneshwaran-P-ATS.pdf" alt="Resume Preview" width="320"/>
+<a href="https://github.com/codewithvignesh-dev/codewithvignesh-dev/blob/main/Resume-Vigneshwaran-P-ATS.pdf">
+  <img src="https://github.com/codewithvignesh-dev/codewithvignesh-dev/blob/main/Resume-Vigneshwaran-P-ATS.pdf" alt="Resume Preview" width="320"/>
 </a>
 
 <br/>
@@ -51,7 +51,7 @@ I'm a **GenAI Engineer** at **LITZ Tech India Pvt Ltd**, Coimbatore, building Ge
 
 <br/>
 
-<a href="https://github.com/codewithvignesh-dev/codewithvignesh-dev/Resume-Vigneshwaran-P-ATS.pdf">
+<a href="https://github.com/codewithvignesh-dev/codewithvignesh-dev/blob/main/Resume-Vigneshwaran-P-ATS.pdf">
   <img src="https://img.shields.io/badge/View%20Full%20Resume-181717?style=flat-square&logo=readthedocs&logoColor=white"/>
 </a>
 
