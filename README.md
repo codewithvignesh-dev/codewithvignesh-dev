@@ -42,7 +42,7 @@ I'm a **GenAI Engineer** at **LITZ Tech India Pvt Ltd**, Coimbatore, building Ge
 <br/>
 
 <a href="https://github.com/codewithvignesh-dev/codewithvignesh-dev/Resume-Vigneshwaran-P-ATS.pdf">
-  <img src="YOUR_PDF_FIRST_PAGE_PREVIEW_IMAGE_URL" alt="Resume Preview" width="320"/>
+  <img src="https://github.com/codewithvignesh-dev/codewithvignesh-dev/Resume-Vigneshwaran-P-ATS.pdf" alt="Resume Preview" width="320"/>
 </a>
 
 <br/>
@@ -51,7 +51,7 @@ I'm a **GenAI Engineer** at **LITZ Tech India Pvt Ltd**, Coimbatore, building Ge
 
 <br/>
 
-<a href="YOUR_PDF_VIEW_URL">
+<a href="https://github.com/codewithvignesh-dev/codewithvignesh-dev/Resume-Vigneshwaran-P-ATS.pdf">
   <img src="https://img.shields.io/badge/View%20Full%20Resume-181717?style=flat-square&logo=readthedocs&logoColor=white"/>
 </a>
 
