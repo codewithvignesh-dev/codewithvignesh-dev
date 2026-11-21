@@ -34,14 +34,14 @@ I'm a **GenAI Engineer** at **LITZ Tech India Pvt Ltd**, Coimbatore, building Ge
 
 <div align="center">
 
-<a href="https://github.com/codewithvignesh-dev/codewithvignesh-dev/blob/main/Resume-Vigneshwaran-P-ATS.pdf">
+<a href="https://github.com/codewithvignesh-dev/codewithvignesh-dev/Resume-Vigneshwaran-P-ATS.pdf">
   <img src="https://img.shields.io/badge/Download%20Now-Resume%20PDF-00C7EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
 </a>
 
 <br/>
 <br/>
 
-<a href="https://github.com/codewithvignesh-dev/codewithvignesh-dev/blob/main/Resume-Vigneshwaran-P-ATS.pdf">
+<a href="https://github.com/codewithvignesh-dev/codewithvignesh-dev/Resume-Vigneshwaran-P-ATS.pdf">
   <img src="YOUR_PDF_FIRST_PAGE_PREVIEW_IMAGE_URL" alt="Resume Preview" width="320"/>
 </a>
 
